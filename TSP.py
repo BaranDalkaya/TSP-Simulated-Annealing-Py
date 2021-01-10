@@ -17,11 +17,9 @@ capitals_list = list(capitals.items())
 capitals_list = [(c[0], tuple(c[1])) for c in capitals_list]
 
 def coord(path):
-    """Strip the city name from each element of the path list and return
-    a list of tuples containing only pairs of xy coordinates for the
-    cities. For example,
-        [("Atlanta", (585.6, 376.8)), ...] -> [(585.6, 376.8), ...]
-    """
+    """Strip the city name from the element of the path list and return
+    a the xt coordinates  for the city. For example,
+        "Atlanta", (585.6, 376.8) -> (585.6, 376.8)"""
     _, coord = path
     return coord
 
@@ -138,11 +136,11 @@ dist, temps, path_best = sim_an(200, "true")
 
 
 # Plot path on the map of USA and the distance as a function of temperature
-plt.subplot(2, 1, 1)
+plt.subplot(1, 2, 1)
 show_path(path_best, path_best[0])
 
-plt.subplot(2, 1, 2)
-plt.plot(temps[::-1], dist)
+plt.subplot(1, 2, 2)
+plt.plot(temps, dist)
 plt.xscale("log")
 plt.yscale("log")
 

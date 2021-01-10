@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd678a87-789e-49ce-a072-bc2b9df26e44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mfAOXWxId1W5DuRnnJb56JRUvT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Python.TSP">
+    <configuration name="8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TheTravellingSalesmen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Software Eng/PythonMasterClass/Ekin" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Software Eng/PythonMasterClass/Ekin/8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TSP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TheTravellingSalesmen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TSP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sliceback" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TheTravellingSalesmen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Software Eng/PythonMasterClass/HelloWorld" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Software Eng/PythonMasterClass/HelloWorld/sliceback.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ssegfwe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TheTravellingSalesmen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ssegfwe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TSP" />
+        <item itemvalue="Python.ssegfwe" />
+        <item itemvalue="Python.sliceback" />
+        <item itemvalue="Python.8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd678a87-789e-49ce-a072-bc2b9df26e44" name="Default Changelist" comment="" />
+      <created>1609874239728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609874239728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2459" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609952280639">
+      <screen x="-2560" y="-349" width="2560" height="1440" />
+    </state>
+    <state x="-2459" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.-349.2560.1440/0.0.1440.900@-2560.-349.2560.1440" timestamp="1609952280639" />
+    <state width="1232" height="519" key="GridCell.Tab.0.bottom" timestamp="1610158703804">
+      <screen x="-2560" y="-349" width="2560" height="1440" />
+    </state>
+    <state width="1425" height="423" key="GridCell.Tab.0.bottom/-2560.-349.2560.1387/0.25.1440.875@-2560.-349.2560.1387" timestamp="1609878526574" />
+    <state width="1232" height="519" key="GridCell.Tab.0.bottom/-2560.-349.2560.1440/0.0.1440.900@-2560.-349.2560.1440" timestamp="1610158703804" />
+    <state width="1232" height="716" key="GridCell.Tab.0.bottom/-2560.-349.2560.1440/0.25.1440.875@-2560.-349.2560.1440" timestamp="1609952275184" />
+    <state width="1398" height="423" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609949170049" />
+    <state width="1310" height="423" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1609884501205" />
+    <state width="1232" height="519" key="GridCell.Tab.0.center" timestamp="1610158703803">
+      <screen x="-2560" y="-349" width="2560" height="1440" />
+    </state>
+    <state width="1425" height="423" key="GridCell.Tab.0.center/-2560.-349.2560.1387/0.25.1440.875@-2560.-349.2560.1387" timestamp="1609878526573" />
+    <state width="1232" height="519" key="GridCell.Tab.0.center/-2560.-349.2560.1440/0.0.1440.900@-2560.-349.2560.1440" timestamp="1610158703803" />
+    <state width="1232" height="716" key="GridCell.Tab.0.center/-2560.-349.2560.1440/0.25.1440.875@-2560.-349.2560.1440" timestamp="1609952275182" />
+    <state width="1398" height="423" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609949170048" />
+    <state width="1310" height="423" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1609884501204" />
+    <state width="1232" height="519" key="GridCell.Tab.0.left" timestamp="1610158703803">
+      <screen x="-2560" y="-349" width="2560" height="1440" />
+    </state>
+    <state width="1425" height="423" key="GridCell.Tab.0.left/-2560.-349.2560.1387/0.25.1440.875@-2560.-349.2560.1387" timestamp="1609878526572" />
+    <state width="1232" height="519" key="GridCell.Tab.0.left/-2560.-349.2560.1440/0.0.1440.900@-2560.-349.2560.1440" timestamp="1610158703803" />
+    <state width="1232" height="716" key="GridCell.Tab.0.left/-2560.-349.2560.1440/0.25.1440.875@-2560.-349.2560.1440" timestamp="1609952275181" />
+    <state width="1398" height="423" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609949170048" />
+    <state width="1310" height="423" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1609884501203" />
+    <state width="1232" height="519" key="GridCell.Tab.0.right" timestamp="1610158703804">
+      <screen x="-2560" y="-349" width="2560" height="1440" />
+    </state>
+    <state width="1425" height="423" key="GridCell.Tab.0.right/-2560.-349.2560.1387/0.25.1440.875@-2560.-349.2560.1387" timestamp="1609878526573" />
+    <state width="1232" height="519" key="GridCell.Tab.0.right/-2560.-349.2560.1440/0.0.1440.900@-2560.-349.2560.1440" timestamp="1610158703804" />
+    <state width="1232" height="716" key="GridCell.Tab.0.right/-2560.-349.2560.1440/0.25.1440.875@-2560.-349.2560.1440" timestamp="1609952275183" />
+    <state width="1398" height="423" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609949170049" />
+    <state width="1310" height="423" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1609884501204" />
+    <state width="1232" height="519" key="GridCell.Tab.1.bottom" timestamp="1610158703806">
+      <screen x="-2560" y="-349" width="2560" height="1440" />
+    </state>
+    <state width="1232" height="519" key="GridCell.Tab.1.bottom/-2560.-349.2560.1440/0.0.1440.900@-2560.-349.2560.1440" timestamp="1610158703806" />
+    <state width="1232" height="519" key="GridCell.Tab.1.center" timestamp="1610158703805">
+      <screen x="-2560" y="-349" width="2560" height="1440" />
+    </state>
+    <state width="1232" height="519" key="GridCell.Tab.1.center/-2560.-349.2560.1440/0.0.1440.900@-2560.-349.2560.1440" timestamp="1610158703805" />
+    <state width="1232" height="519" key="GridCell.Tab.1.left" timestamp="1610158703805">
+      <screen x="-2560" y="-349" width="2560" height="1440" />
+    </state>
+    <state width="1232" height="519" key="GridCell.Tab.1.left/-2560.-349.2560.1440/0.0.1440.900@-2560.-349.2560.1440" timestamp="1610158703805" />
+    <state width="1232" height="519" key="GridCell.Tab.1.right" timestamp="1610158703806">
+      <screen x="-2560" y="-349" width="2560" height="1440" />
+    </state>
+    <state width="1232" height="519" key="GridCell.Tab.1.right/-2560.-349.2560.1440/0.0.1440.900@-2560.-349.2560.1440" timestamp="1610158703806" />
+    <state x="-1854" y="59" key="com.intellij.ide.util.TipDialog" timestamp="1610201341337">
+      <screen x="-2560" y="-349" width="2560" height="1440" />
+    </state>
+    <state x="-1854" y="59" key="com.intellij.ide.util.TipDialog/-2560.-349.2560.1440/0.0.1440.900@-2560.-349.2560.1440" timestamp="1610201341337" />
+    <state x="397" y="253" key="com.intellij.ide.util.TipDialog/-2560.-349.2560.1440/0.0.1440.900@0.0.1440.900" timestamp="1609950791922" />
+    <state x="706" y="405" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1609883899614" />
+    <state x="397" y="265" key="com.intellij.ide.util.TipDialog/0.25.1440.822@0.25.1440.822" timestamp="1609874243436" />
+    <state x="-2235" y="-42" width="816" height="825" key="find.popup" timestamp="1609878751833">
+      <screen x="-2560" y="-349" width="2560" height="1440" />
+    </state>
+    <state x="-2235" y="-42" width="816" height="825" key="find.popup/-2560.-349.2560.1440/0.0.1440.900@-2560.-349.2560.1440" timestamp="1609878751833" />
+  </component>
+</project>
